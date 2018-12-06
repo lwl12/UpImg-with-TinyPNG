@@ -1,0 +1,11 @@
+{
+  "name": "upimg-with-tinypng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lwl12",
+  "license": "MIT",
+  "dependencies": {
+    "tinify": "^1.6.0-beta.2",
+    "upimg": "^0.1.3"
+  }
+}
